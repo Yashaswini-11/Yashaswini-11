@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Yashaswini 👋
 
-<!--
-**Yashaswini-11/Yashaswini-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer (React, Next.js, Node.js, MongoDB) building web apps with LLM integration. Based in Bengaluru, looking for a software engineering role.
 
-Here are some ideas to get you started:
+## Projects
+- **AI Grocery Marketplace**: Next.js, Express, MongoDB, Gemini. [Live demo](ADD-LINK-AFTER-DEPLOY) · [Code](https://github.com/Yashaswini-11/AI-Grocery-Marketplace)
+- **Job Application Tracker**: Node, Express, MongoDB, JWT. [Live demo](https://job-application-tracker-mu-two.vercel.app) · [Code](https://github.com/Yashaswini-11/Job-application-tracker)
+- **Agent App**: Next.js, TypeScript, MongoDB. [Code](https://github.com/Yashaswini-11/Agent-app)
+- **Taskflow**: vanilla JavaScript. [Code](https://github.com/Yashaswini-11/Taskflow)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+yashaswinidn01@gmail.com · [LinkedIn](ADD-YOUR-LINKEDIN-URL)
+
