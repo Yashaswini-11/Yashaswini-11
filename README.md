@@ -9,5 +9,5 @@ Full-stack developer (React, Next.js, Node.js, MongoDB) building web apps with L
 - **Taskflow**: vanilla JavaScript. [Code](https://github.com/Yashaswini-11/Taskflow)
 
 ## Contact
-yashaswinidn8@gmail.com · [LinkedIn](www.linkedin.com/in/yashaswini-dn-4434a929b)
+yashudn10@gmail.com · [LinkedIn](www.linkedin.com/in/yashaswini-dn-4434a929b)
 
